@@ -23,7 +23,7 @@ If you want to test these exercises in your local environment using Visual Studi
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com
+   https://github.com/JoseBermejo-N/TascaS1.02.git
    ```
 
 2. **Open the folder in your editor:**
